@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="29" viewBox="0 0 69 29">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.246" cy="-0.402" r="1.655" gradientTransform="matrix(-0.021, -1, 0.433, -0.009, 0.488, 0.229)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#785ceb"/>
+      <stop offset="0" stop-color="#1b7566"/>
+      <stop offset="1" stop-color="#0e5a4d"/>
+    </radialGradient>
+  </defs>
+  <g id="follow" transform="translate(-9495 -2278)">
+    <rect id="사각형_97" data-name="사각형 97" width="69" height="29" rx="14.5" transform="translate(9495 2278)" fill="url(#radial-gradient)"/>
+    <text id="Follow-2" data-name="Follow" transform="translate(9508 2298)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Follow</tspan></text>
+  </g>
+</svg>
